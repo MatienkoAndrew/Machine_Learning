@@ -1,0 +1,1 @@
+***[Хорошая статья про дифференциальную эволюцию](https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/)***
